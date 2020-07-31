@@ -1,0 +1,5 @@
+install -g json-server
+
+C:\Users\ayatu\Desktop\UDEMY\Angular\db
+
+json-server --watch shop.json

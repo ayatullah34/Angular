@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "Asus Zenbook",
+      "imageUrl": "https://images.unsplash.com/photo-1593642533144-3d62aa4783ec?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": 25,
+      "categoryId": 2,
+      "description": "A4 Tech",
+      "imageUrl": "https://images.unsplash.com/photo-1554576575-a4e7b6e8409d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+      "name": "Telefon",
+      "description": "iPhone 8 Plus 64 GB",
+      "price": "6.748,90 TL",
+      "imageUrl": "https://productimages.hepsiburada.net/s/31/550/10352776347698.jpg/format:webp",
+      "categoryId": "1",
+      "id": 3
+    },
+    {
+      "name": "Arçelik Buzdolabı",
+      "description": "No Frost Buzdolabı",
+      "imageUrl": "https://www.arcelik.com.tr/content/dam/arcelik-tr/arcelikTurkeyProductCatalog/product-images/7293220190-570464-MI/7293220190-LO1-20190911-171332.png.transform/rendition-768/image.png",
+      "price": "3.460 TL",
+      "categoryId": "1",
+      "id": 4
+    },
+    {
+      "name": "Lipton Ice Tea",
+      "description": "Limon Pet 2 L",
+      "imageUrl": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/08055171/08055171-0b1dc1.png",
+      "price": "6,45",
+      "categoryId": "5",
+      "id": 5
+    },
+    {
+      "name": "Valencia VC204 Klasik Gitar",
+      "description": "(Kılıf Hediyeli)",
+      "imageUrl": "https://productimages.hepsiburada.net/s/2/550/9559373840434.jpg/format:webp",
+      "price": "550",
+      "categoryId": "4",
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Elektronik"
+    },
+    {
+      "id": 2,
+      "name": "Bilgisayar"
+    },
+    {
+      "id": 3,
+      "name": "İletişim"
+    },
+    {
+      "id": 4,
+      "name": "Müzik"
+    },
+    {
+      "id": 5,
+      "name": "İçecek"
+    }
+  ]
+}
